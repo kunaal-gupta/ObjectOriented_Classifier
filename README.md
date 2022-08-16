@@ -2,12 +2,13 @@
 
 **Course & Term Name**: CMPUT 274, Fall 2021 | Assignment -1 | OO Classifier
 
-** Programming Lanaguage** : Python
+**Programming Lanaguage** : Python
 
 **Description**:
-Task I: Preprocessing in the Classifier 
-Task II:Word Frequency Classification Algorithm  
-Task III: Create N-folds for Cross Validation 
+
+* Task I: Preprocessing in the Classifier 
+* Task II:Word Frequency Classification Algorithm  
+* Task III: Create N-folds for Cross Validation 
 
 **Included Files**: 
  * README
@@ -50,7 +51,7 @@ The finished OO classifier must still generate output that matches the tests pro
 
 **Github Profile**: https://github.com/kunaal-gupta
 
-**Feedback**: If you have any feedback or issue(s), please reach out to me at kunaal@ualberta.ca
+**Feedback**: If you have any feedback or issue(s), please reach out to me at kunaalgupta@hotmail.com
 
 
 
