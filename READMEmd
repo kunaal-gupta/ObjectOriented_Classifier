@@ -1,12 +1,15 @@
-Name: Kunaal Gupta
-Course & Term Name: CMPUT 274, Fall 2021
+**Author**: Kunaal Gupta
 
-Exercise: Assignment -1 | OO Classifier
+**Course & Term Name**: CMPUT 274, Fall 2021 | Assignment -1 | OO Classifier
 
-Programming Lanaguage : Python
+** Programming Lanaguage** : Python
 
-Included Files: 
+**Description**:
+Task I: Preprocessing in the Classifier 
+Task II:Word Frequency Classification Algorithm  
+Task III: Create N-folds for Cross Validation 
 
+**Included Files**: 
  * README
  * ass.1.ooclassifier/
  * assn1.testcases.combined.tar.gz
@@ -15,8 +18,7 @@ Included Files:
  * ooclassifier
  * submission_validator
 
-Concepts Used:
-
+**Concepts Used**:
 1. Machine-learned classifiers
 2. Python programming
 3. Classes and object-oriented programming in Python
@@ -27,37 +29,28 @@ Concepts Used:
 8. Style and Design considerations
 9. Testing strategies
 
-Software used: 
+**Software used**: 
 
  * Pycharm IDE 2021.2  
  * Sublime             
  * Terminal                
 
-Algorithm used:
+**Algorithm used**:
  * Huffman Algorithm
 
-Description:
-
-Task I: Preprocessing in the Classifier 
-Task II:Word Frequency Classification Algorithm  
-Task III: Create N-folds for Cross Validation 
-
-Output:
+**Output**:
 The finished OO classifier must still generate output that matches the tests provided. Care and attention should be paid to designing new tests and input that meet the specifications.
 
-Running Instructions:
-Within the repository directory, enter "make run" into the terminal to run the test cases through the program.
+**Running Instructions**: Within the repository directory, enter "make run" into the terminal to run the test cases through the program.
 
-Acknowledgments: 
+**Acknowledgments**: 
  * Python Intro Labs
  * Python3 CheatSheet
  * Code Submission & style guidlines
 
-Github Profile: 
-https://github.com/kunaal-gupta
+**Github Profile**: https://github.com/kunaal-gupta
 
-Feedback:
-If you have any feedback or issue(s), please reach out to me at kunaal@ualberta.ca
+**Feedback**: If you have any feedback or issue(s), please reach out to me at kunaal@ualberta.ca
 
 
 
